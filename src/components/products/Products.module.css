@@ -1,0 +1,9 @@
+.products {
+    max-height: 70%;
+    width: 70%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    overflow-y: scroll;
+}
+
