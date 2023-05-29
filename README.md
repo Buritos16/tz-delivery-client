@@ -1,5 +1,6 @@
 <h1>Delivery app</h1>
 <h2>To run the application:</h2>
+
 - Clone or download source code from current Github repository.
 
 - Run npm init
@@ -10,4 +11,4 @@
 
 - Enjoy!
 
-<h2>App is hosted on: https://tz-delivery-app.vercel.app/menu/products</h2>
+<h2>App is hosted on: https://tz-delivery-app.vercel.app/</h2>
